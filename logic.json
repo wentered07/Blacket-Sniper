@@ -1,0 +1,5732 @@
+{
+  "10k": {
+    "rarity": "Unique",
+    "chance": 100,
+    "price": 300,
+    "image": "/content/blooks/10k.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lunar Frog": {
+    "rarity": "Chroma",
+    "chance": 100,
+    "price": 300,
+    "image": "/content/blooks/Lunar Frog.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lovely Planet": {
+    "rarity": "Chroma",
+    "chance": 100,
+    "price": 300,
+    "image": "/content/blooks/Lovely Planet.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lucky Hamster": {
+    "rarity": "Supreme",
+    "chance": 100,
+    "price": 300,
+    "image": "/content/blooks/Lucky Hamster.webp",
+    "art": "/content/packs/art/Pet.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chocolate Rabbit": {
+    "rarity": "Chroma",
+    "chance": 100,
+    "price": 300,
+    "image": "/content/blooks/Chocolate Rabbit.webp",
+    "art": "/content/packs/art/Pet.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Candy Heart": {
+    "rarity": "Epic",
+    "chance": 72.9,
+    "price": 75,
+    "image": "https://i.ibb.co/LzjfvjgY/Candy-Heart.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Moon": {
+    "rarity": "Unique",
+    "chance": 30,
+    "price": 300,
+    "image": "/content/blooks/Moon.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Box of Chocolates": {
+    "rarity": "Legendary",
+    "chance": 22.9,
+    "price": 200,
+    "image": "https://i.ibb.co/wrjs9p8H/Box-of-Chocolates.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pink Bunny Peep": {
+    "rarity": "Epic",
+    "chance": 22.5,
+    "price": 75,
+    "image": "/content/blooks/Pink Bunny Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "White Bunny Peep": {
+    "rarity": "Epic",
+    "chance": 22.5,
+    "price": 75,
+    "image": "/content/blooks/White Bunny Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Yellow Bunny Peep": {
+    "rarity": "Epic",
+    "chance": 22.5,
+    "price": 75,
+    "image": "/content/blooks/Yellow Bunny Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ant": {
+    "rarity": "Uncommon",
+    "chance": 20,
+    "price": 5,
+    "image": "/content/blooks/Ant.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Fly": {
+    "rarity": "Uncommon",
+    "chance": 20,
+    "price": 5,
+    "image": "/content/blooks/Fly.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ladybug": {
+    "rarity": "Uncommon",
+    "chance": 20,
+    "price": 5,
+    "image": "/content/blooks/Ladybug.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pot o' Gold": {
+    "rarity": "Uncommon",
+    "chance": 20,
+    "price": 5,
+    "image": "/content/blooks/Pot O Gold.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gold Gremlin": {
+    "rarity": "Uncommon",
+    "chance": 20,
+    "price": 5,
+    "image": "/content/blooks/Gremlin.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rhino Beetle": {
+    "rarity": "Uncommon",
+    "chance": 20,
+    "price": 5,
+    "image": "/content/blooks/Rhinobeetle.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Clover Knight": {
+    "rarity": "Uncommon",
+    "chance": 20,
+    "price": 5,
+    "image": "/content/blooks/Clover Knight.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Amber": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Amber.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ice Bat": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Ice Bat.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ice Bug": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Ice Bug.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lil Bot": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Lil Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chipmunk": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Chipmunk.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dino Egg": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Dino Egg.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lollipop": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Lollipop.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Angry Bot": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Angry Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Happy Bot": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Happy Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Jellybean": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Jellybean.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Black Bear": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Black Bear.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Candy Corn": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Candy Corn.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cornucopia": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Cornucopia.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lovely Bot": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Lovely Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Zigzag Egg": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Zigzag Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Checker Egg": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Checker Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dino Fossil": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Dino Fossil.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pumpkin Pie": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Pumpkin Pie.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spotted Egg": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Spotted Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Stegosaurus": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Stegosaurus.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rock Monster": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Rock Monster.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ice Elemental": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Ice Elemental1.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Unpainted Egg": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Unpainted Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Black Licorice": {
+    "rarity": "Uncommon",
+    "chance": 19.5,
+    "price": 5,
+    "image": "/content/blooks/Black Licorice.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Alien": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Alien.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dingo": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Dingo.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Earth": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Earth.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Koala": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Koala.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Stars": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Stars.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Meteor": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Meteor.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Echidna": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Echidna.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Kookaburra": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Kookaburra.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spiked Boot": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Spiked Boot.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Air Elemental": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Air Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Viking Helmet": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Viking Helmet.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Fire Elemental": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Fire Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Iron Chestplate": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Iron Chestplate.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Silver Shuriken": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Silver Shuriken.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Water Elemental": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Water Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Nature Elemental": {
+    "rarity": "Uncommon",
+    "chance": 18.75,
+    "price": 5,
+    "image": "/content/blooks/Nature Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pumpkin": {
+    "rarity": "Uncommon",
+    "chance": 18.5,
+    "price": 5,
+    "image": "/content/blooks/Pumpkin.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Vampire": {
+    "rarity": "Uncommon",
+    "chance": 18.5,
+    "price": 5,
+    "image": "/content/blooks/Vampire.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Frankenstein": {
+    "rarity": "Uncommon",
+    "chance": 18.5,
+    "price": 5,
+    "image": "/content/blooks/Frankenstein.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Swamp Monster": {
+    "rarity": "Uncommon",
+    "chance": 18.5,
+    "price": 5,
+    "image": "/content/blooks/Swamp Monster.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ankha": {
+    "rarity": "Uncommon",
+    "chance": 17.5,
+    "price": 5,
+    "image": "/content/blooks/Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Donut": {
+    "rarity": "Uncommon",
+    "chance": 17.5,
+    "price": 5,
+    "image": "/content/blooks/Donut.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cherry Pie": {
+    "rarity": "Uncommon",
+    "chance": 17.5,
+    "price": 5,
+    "image": "/content/blooks/Cherry Pie.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mummy Ankha": {
+    "rarity": "Uncommon",
+    "chance": 17.5,
+    "price": 5,
+    "image": "/content/blooks/Mummy Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Elderberry Pie": {
+    "rarity": "Uncommon",
+    "chance": 17.5,
+    "price": 5,
+    "image": "/content/blooks/Elderberry Pie.webp?1",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Realistic Ankha": {
+    "rarity": "Uncommon",
+    "chance": 17.5,
+    "price": 5,
+    "image": "/content/blooks/Realistic Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "EtchASketch": {
+    "rarity": "Uncommon",
+    "chance": 17,
+    "price": 5,
+    "image": "/content/blooks/EtchASketch.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cassette Tape": {
+    "rarity": "Uncommon",
+    "chance": 17,
+    "price": 5,
+    "image": "/content/blooks/Cassette Tape.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dial Telephone": {
+    "rarity": "Uncommon",
+    "chance": 17,
+    "price": 5,
+    "image": "/content/blooks/Dial Telephone.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Seagull": {
+    "rarity": "Uncommon",
+    "chance": 16,
+    "price": 5,
+    "image": "/content/blooks/Seagull.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Deckhand": {
+    "rarity": "Uncommon",
+    "chance": 16,
+    "price": 5,
+    "image": "/content/blooks/Deckhand.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Buccaneer": {
+    "rarity": "Uncommon",
+    "chance": 16,
+    "price": 5,
+    "image": "/content/blooks/Buccaneer.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Swashbuckler": {
+    "rarity": "Uncommon",
+    "chance": 16,
+    "price": 5,
+    "image": "/content/blooks/Swashbuckler.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Treasure Map": {
+    "rarity": "Uncommon",
+    "chance": 16,
+    "price": 5,
+    "image": "/content/blooks/Treasure Map.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Apple": {
+    "rarity": "Uncommon",
+    "chance": 15.2,
+    "price": 5,
+    "image": "/content/blooks/Apple.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Two of Spades": {
+    "rarity": "Uncommon",
+    "chance": 15.2,
+    "price": 5,
+    "image": "/content/blooks/Two of Spades.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gravity Switcher": {
+    "rarity": "Uncommon",
+    "chance": 15.2,
+    "price": 5,
+    "image": "/content/blooks/Gravity Switcher.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "DNA": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/DNA.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Crab": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Crab.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Flan": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Flan.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Frog": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Frog.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Jade": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Jade.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lime": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Lime.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Onyx": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Onyx.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Alice": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Alice.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Grape": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Grape.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lemon": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Lemon.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Panda": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Panda.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Scale": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Scale.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sloth": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Sloth.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Zebra": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Zebra.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Beaker": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Beaker.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Eat Me": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Eat Me.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Jasper": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Jasper.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Magnet": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Magnet.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Orange": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Orange.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Quartz": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Quartz.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tenrec": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Tenrec.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Battery": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Battery.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Baseball": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Baseball.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Drink Me": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Drink Me.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Flamingo": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Flamingo.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Old Boot": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Old Boot.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blood Bag": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Blood Bag.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Clownfish": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Clownfish.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golf Ball": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Golf Ball.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Jellyfish": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Jellyfish.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Basketball": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Basketball.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Soccer Ball": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Soccer Ball.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tennis Ball": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Tennis Ball.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lapis Lazuli": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Lapis Lazuli.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Glowing Ankha": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Glowing Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Polaroid Camera": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Polaroid Camera.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Queen of Hearts": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Queen of Hearts.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Magnifying Glass": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Magnifying Glass.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Object Maximizer": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Object Maximizer.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Holographic Display": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Holographic Display.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Object Miniaturizer": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Object Miniaturizer.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Stealth Disguise Kit": {
+    "rarity": "Uncommon",
+    "chance": 15,
+    "price": 5,
+    "image": "/content/blooks/Stealth Disguise Kit.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Drums": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Drums.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Popsicle": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Popsicle.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Stocking": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Stocking.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Xylophone": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Xylophone.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Beach Ball": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Beach Ball.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Music Disc": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Music Disc.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Snow Globe": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Snow Globe.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sand Bucket": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Sand Bucket.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sheet Music": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Sheet Music.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Holiday Gift": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Holiday Gift.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Hot Chocolate": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Hot Chocolate.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Holiday Wreath": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Holiday Wreath.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Plastic Shovel": {
+    "rarity": "Uncommon",
+    "chance": 14.5,
+    "price": 5,
+    "image": "/content/blooks/Plastic Shovel.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pac-Man": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Pac-Man.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Among Us": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Among Us.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Hourglass": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Hourglass.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Poke Ball": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Poke Ball.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Fairy Dust": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Fairy Dust.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "TamaGotchi": {
+    "rarity": "Rare",
+    "chance": 14,
+    "price": 20,
+    "image": "/content/blooks/Tamagotchi.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cursed Ring": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Cursed Ring.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Flappy Bird": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Flappy Bird.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Analog Clock": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Analog Clock.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cuckoo Clock": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Cuckoo Clock.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pocket Watch": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Pocket Watch.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Space Invader": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Space Invader.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Calendar Scroll": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Calendar Scroll.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Magic Spellbook": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Magic Spellbook.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Bubbling Cauldron": {
+    "rarity": "Uncommon",
+    "chance": 14,
+    "price": 5,
+    "image": "/content/blooks/Bubbling Cauldron.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "acai": {
+    "rarity": "Uncommon",
+    "chance": 13.75,
+    "price": 5,
+    "image": "/content/blooks/acai.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pablo": {
+    "rarity": "Uncommon",
+    "chance": 13.75,
+    "price": 5,
+    "image": "/content/blooks/Pablo.webp?1",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "fristic": {
+    "rarity": "Uncommon",
+    "chance": 13.75,
+    "price": 5,
+    "image": "/content/blooks/fristic.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Minesraft2": {
+    "rarity": "Uncommon",
+    "chance": 13.75,
+    "price": 5,
+    "image": "/content/blooks/Minesraft2.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "yesbutterjeff": {
+    "rarity": "Uncommon",
+    "chance": 13.75,
+    "price": 5,
+    "image": "/content/blooks/yesbutterjeff.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Magic Scroll": {
+    "rarity": "Uncommon",
+    "chance": 13.5,
+    "price": 5,
+    "image": "/content/blooks/Magic Scroll.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Elf": {
+    "rarity": "Uncommon",
+    "chance": 13.4,
+    "price": 5,
+    "image": "/content/blooks/Elf.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Fairy": {
+    "rarity": "Uncommon",
+    "chance": 13.4,
+    "price": 5,
+    "image": "/content/blooks/Fairy.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Witch": {
+    "rarity": "Uncommon",
+    "chance": 13.4,
+    "price": 5,
+    "image": "/content/blooks/Witch.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Wizard": {
+    "rarity": "Uncommon",
+    "chance": 13.4,
+    "price": 5,
+    "image": "/content/blooks/Wizard.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Slime Monster": {
+    "rarity": "Uncommon",
+    "chance": 13.4,
+    "price": 5,
+    "image": "/content/blooks/Slime Monster.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Milk": {
+    "rarity": "Uncommon",
+    "chance": 12.5,
+    "price": 5,
+    "image": "/content/blooks/Milk.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Toast": {
+    "rarity": "Uncommon",
+    "chance": 12.5,
+    "price": 5,
+    "image": "/content/blooks/Toast.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cereal": {
+    "rarity": "Uncommon",
+    "chance": 12.5,
+    "price": 5,
+    "image": "/content/blooks/Cereal.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Yogurt": {
+    "rarity": "Uncommon",
+    "chance": 12.5,
+    "price": 5,
+    "image": "/content/blooks/Yogurt.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Orange Juice": {
+    "rarity": "Uncommon",
+    "chance": 12.5,
+    "price": 5,
+    "image": "/content/blooks/Orange Juice.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Breakfast Combo": {
+    "rarity": "Uncommon",
+    "chance": 12.5,
+    "price": 5,
+    "image": "/content/blooks/Breakfast Combo.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pink Chick Peep": {
+    "rarity": "Legendary",
+    "chance": 10.5,
+    "price": 200,
+    "image": "/content/blooks/Pink Chick Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Green Chick Peep": {
+    "rarity": "Legendary",
+    "chance": 10.5,
+    "price": 200,
+    "image": "/content/blooks/Green Chick Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Yellow Chick Peep": {
+    "rarity": "Legendary",
+    "chance": 10.5,
+    "price": 200,
+    "image": "/content/blooks/Yellow Chick Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Crow": {
+    "rarity": "Rare",
+    "chance": 10.15,
+    "price": 20,
+    "image": "/content/blooks/Crow.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mummy": {
+    "rarity": "Rare",
+    "chance": 10.15,
+    "price": 20,
+    "image": "/content/blooks/Mummy.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Zombie": {
+    "rarity": "Rare",
+    "chance": 10.15,
+    "price": 20,
+    "image": "/content/blooks/Zombie.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "UFO": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/UFO.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Planet": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Planet.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Watson": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Watson.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Buddy Bot": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Buddy Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "GameBlook": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/GameBlook.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tan Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Tan Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dust Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Dust Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gray Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Gray Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lime Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Lime Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mark Ankha": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Mark Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Brown Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Brown Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Knight Sword": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Knight Sword.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Maroon Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Maroon Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Orange Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Orange Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ankha's House": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Ankha's House.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Knight Shield": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Knight Shield.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lava Elemental": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Lava Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Baby Blue Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Baby Blue Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dull Blue Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Dull Blue Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Frost Elemental": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Frost Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Vending Machine": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Vending Machine.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Light Blue Blook": {
+    "rarity": "Uncommon",
+    "chance": 10,
+    "price": 5,
+    "image": "/content/blooks/Light Blue Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Donkey Kong Machine": {
+    "rarity": "Rare",
+    "chance": 10,
+    "price": 20,
+    "image": "/content/blooks/Donkey Kong Machine.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Bee": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Bee.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Worm": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Worm.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Queen": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Queen.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dragon": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Dragon.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Goomba": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Goomba.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Jester": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Jester.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Waffle": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Waffle.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Creeper": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Creeper.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pancakes": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Pancakes.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Autumn Cat": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Autumn Cat.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Big Shield": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Big Shield.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Brontosaurus": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Brontosaurus.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Velociraptor": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Velociraptor.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pumpkin Puppy": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Pumpkin Puppy.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chocolate Ice Cream": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Chocolate Ice Cream.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Strawberry Ice Cream": {
+    "rarity": "Rare",
+    "chance": 9,
+    "price": 20,
+    "image": "/content/blooks/Strawberry Ice Cream.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dink": {
+    "rarity": "Rare",
+    "chance": 8.5,
+    "price": 20,
+    "image": "/content/blooks/Dink.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Donk": {
+    "rarity": "Rare",
+    "chance": 8.5,
+    "price": 20,
+    "image": "/content/blooks/Donk.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chocolate": {
+    "rarity": "Rare",
+    "chance": 8.5,
+    "price": 20,
+    "image": "/content/blooks/Chocolate.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Peppermint": {
+    "rarity": "Rare",
+    "chance": 8.5,
+    "price": 20,
+    "image": "/content/blooks/Peppermint.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Orrey": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Orrey.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Emerald": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Emerald.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Triangle": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Triangle.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Astrolabe": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Astrolabe.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Metronome": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Metronome.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Life Float": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Life Float.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Conch Shell": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Conch Shell.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pirate Ship": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Pirate Ship.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Crystal Ball": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Crystal Ball.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Fred the Egg": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Fred the Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Jolly Pirate": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Jolly Pirate.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Time Capsule": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Time Capsule.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ancient Runes": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Ancient Runes.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chocolate Egg": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Chocolate Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Magician's Wand": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/Magician's Wand.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "St. Patrick's Hat": {
+    "rarity": "Rare",
+    "chance": 8,
+    "price": 20,
+    "image": "/content/blooks/St Patricks Hat.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Reindeer": {
+    "rarity": "Rare",
+    "chance": 7.1,
+    "price": 20,
+    "image": "/content/blooks/Reindeer.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gingerbread Man": {
+    "rarity": "Rare",
+    "chance": 7.1,
+    "price": 20,
+    "image": "/content/blooks/Gingerbread Man.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gingerbread House": {
+    "rarity": "Rare",
+    "chance": 7.1,
+    "price": 20,
+    "image": "/content/blooks/Gingerbread House.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Joey": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Joey.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lemur": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Lemur.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Peacock": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Peacock.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Elephant": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Elephant.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Football": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Football.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Kangaroo": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Kangaroo.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Platypus": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Platypus.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Bowling Ball": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Bowling Ball.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ping Pong Racket": {
+    "rarity": "Rare",
+    "chance": 7,
+    "price": 20,
+    "image": "/content/blooks/Ping Pong Racket.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ruby": {
+    "rarity": "Rare",
+    "chance": 6.8,
+    "price": 20,
+    "image": "/content/blooks/Ruby.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Topaz": {
+    "rarity": "Rare",
+    "chance": 6.8,
+    "price": 20,
+    "image": "/content/blooks/Topaz.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sapphire": {
+    "rarity": "Rare",
+    "chance": 6.8,
+    "price": 20,
+    "image": "/content/blooks/Sapphire.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Skeleton": {
+    "rarity": "Rare",
+    "chance": 6.7,
+    "price": 20,
+    "image": "/content/blooks/Skeleton.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Caramel Apple": {
+    "rarity": "Rare",
+    "chance": 6.7,
+    "price": 20,
+    "image": "/content/blooks/Caramel Apple.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Piotr": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Piotr.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cherry": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Cherry.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "okr765": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/okr765.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "painbow": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/painbow.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dormouse": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Dormouse.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Raspberry": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Raspberry.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Flying Car": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Flying Car.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Strawberry": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Strawberry.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Void Pistol": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Void Pistol.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cheshire Cat": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Cheshire Cat.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "White Rabbit": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/White Rabbit.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Lightsaber": {
+    "rarity": "Rare",
+    "chance": 6.5,
+    "price": 20,
+    "image": "/content/blooks/Red Lightsaber.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Octopus": {
+    "rarity": "Rare",
+    "chance": 6.1,
+    "price": 20,
+    "image": "/content/blooks/Octopus.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blobfish": {
+    "rarity": "Rare",
+    "chance": 6.1,
+    "price": 20,
+    "image": "/content/blooks/Blobfish.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pufferfish": {
+    "rarity": "Rare",
+    "chance": 6.1,
+    "price": 20,
+    "image": "/content/blooks/Pufferfish.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Snowman": {
+    "rarity": "Epic",
+    "chance": 5.15,
+    "price": 75,
+    "image": "/content/blooks/Snowman.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Unicorn": {
+    "rarity": "Epic",
+    "chance": 5,
+    "price": 75,
+    "image": "/content/blooks/Unicorn.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Werewolf": {
+    "rarity": "Epic",
+    "chance": 5,
+    "price": 75,
+    "image": "/content/blooks/Werewolf.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Blook": {
+    "rarity": "Rare",
+    "chance": 5,
+    "price": 20,
+    "image": "/content/blooks/Blue Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mint Blook": {
+    "rarity": "Rare",
+    "chance": 5,
+    "price": 20,
+    "image": "/content/blooks/Mint Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Teal Blook": {
+    "rarity": "Rare",
+    "chance": 5,
+    "price": 20,
+    "image": "/content/blooks/Teal Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Green Blook": {
+    "rarity": "Rare",
+    "chance": 5,
+    "price": 20,
+    "image": "/content/blooks/Green Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "French Toast": {
+    "rarity": "Epic",
+    "chance": 5,
+    "price": 75,
+    "image": "/content/blooks/French Toast.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Salmon Blook": {
+    "rarity": "Rare",
+    "chance": 5,
+    "price": 20,
+    "image": "/content/blooks/Salmon Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Burgandy Blook": {
+    "rarity": "Rare",
+    "chance": 5,
+    "price": 20,
+    "image": "/content/blooks/Burgandy Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spaceship": {
+    "rarity": "Epic",
+    "chance": 4.5,
+    "price": 75,
+    "image": "/content/blooks/Spaceship.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gummy Worm": {
+    "rarity": "Epic",
+    "chance": 4.5,
+    "price": 75,
+    "image": "/content/blooks/Gummy Worm.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Bush Monster": {
+    "rarity": "Epic",
+    "chance": 4.5,
+    "price": 75,
+    "image": "/content/blooks/Bush Monster.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Space Elemental": {
+    "rarity": "Epic",
+    "chance": 4.5,
+    "price": 75,
+    "image": "/content/blooks/Space Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Fragment Grenade": {
+    "rarity": "Epic",
+    "chance": 4.5,
+    "price": 75,
+    "image": "/content/blooks/Fragment Grenade.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "High Ankha": {
+    "rarity": "Epic",
+    "chance": 4,
+    "price": 75,
+    "image": "/content/blooks/High Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Raspberry Macaroon": {
+    "rarity": "Epic",
+    "chance": 4,
+    "price": 75,
+    "image": "/content/blooks/Raspberry Macaroon.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Amethyst": {
+    "rarity": "Epic",
+    "chance": 3.9,
+    "price": 75,
+    "image": "/content/blooks/Amethyst.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Brainy Bot": {
+    "rarity": "Epic",
+    "chance": 3.7,
+    "price": 75,
+    "image": "/content/blooks/Brainy Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Triceratops": {
+    "rarity": "Epic",
+    "chance": 3.7,
+    "price": 75,
+    "image": "/content/blooks/Triceratops.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sea Monster": {
+    "rarity": "Epic",
+    "chance": 3.67,
+    "price": 75,
+    "image": "/content/blooks/Sea Monster.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Crocodile": {
+    "rarity": "Epic",
+    "chance": 3.6,
+    "price": 75,
+    "image": "/content/blooks/Crocodile.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Atom": {
+    "rarity": "Rare",
+    "chance": 3.5,
+    "price": 20,
+    "image": "/content/blooks/Atom.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "BoomBox": {
+    "rarity": "Epic",
+    "chance": 3.5,
+    "price": 75,
+    "image": "/content/blooks/BoomBox.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Eyeball": {
+    "rarity": "Rare",
+    "chance": 3.5,
+    "price": 20,
+    "image": "/content/blooks/Eyeball.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Bacteria": {
+    "rarity": "Rare",
+    "chance": 3.5,
+    "price": 20,
+    "image": "/content/blooks/Bacteria.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Microscope": {
+    "rarity": "Rare",
+    "chance": 3.5,
+    "price": 20,
+    "image": "/content/blooks/Microscope.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Test Tubes": {
+    "rarity": "Rare",
+    "chance": 3.5,
+    "price": 20,
+    "image": "/content/blooks/Test Tubes.webp?1",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Bunsen Burner": {
+    "rarity": "Rare",
+    "chance": 3.5,
+    "price": 20,
+    "image": "/content/blooks/Bunsen Burner.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chameleon": {
+    "rarity": "Epic",
+    "chance": 3.48,
+    "price": 75,
+    "image": "/content/blooks/Chameleon.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Curling Stone": {
+    "rarity": "Epic",
+    "chance": 3.48,
+    "price": 75,
+    "image": "/content/blooks/Curling Stone.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Speaker": {
+    "rarity": "Epic",
+    "chance": 3.1,
+    "price": 75,
+    "image": "/content/blooks/Speaker.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Surfboard": {
+    "rarity": "Epic",
+    "chance": 3.1,
+    "price": 75,
+    "image": "/content/blooks/Surfboard.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mantis": {
+    "rarity": "Epic",
+    "chance": 3,
+    "price": 75,
+    "image": "/content/blooks/Mantis.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dolphin": {
+    "rarity": "Epic",
+    "chance": 3,
+    "price": 75,
+    "image": "/content/blooks/Dolphin.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Narwhal": {
+    "rarity": "Epic",
+    "chance": 3,
+    "price": 75,
+    "image": "/content/blooks/Narwhal.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Easter Basket": {
+    "rarity": "Epic",
+    "chance": 3,
+    "price": 75,
+    "image": "/content/blooks/Easter Basket.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Harp o' Clovers": {
+    "rarity": "Epic",
+    "chance": 3,
+    "price": 75,
+    "image": "/content/blooks/Harp O Clovers.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Strength Potion": {
+    "rarity": "Epic",
+    "chance": 3,
+    "price": 75,
+    "image": "/content/blooks/Strength Potion.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Enchantment Hall": {
+    "rarity": "Epic",
+    "chance": 3,
+    "price": 75,
+    "image": "/content/blooks/Enchantment Hall.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Autumn Crow": {
+    "rarity": "Epic",
+    "chance": 2.95,
+    "price": 75,
+    "image": "/content/blooks/Autumn Crow.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cerulean": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Cerulean.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "iBlooket": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/iBlooket.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Blook": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Red Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mad Hatter": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Mad Hatter.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Watermelon": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Watermelon.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Black Ankha": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Black Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Caterpillar": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Caterpillar.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dragon Fruit": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Dragon Fruit.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Purple Blook": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Purple Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Yellow Blook": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Yellow Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Hijacked Radio": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Hijacked Radio.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Neural Implant": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Neural Implant.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Grandfather Clock": {
+    "rarity": "Epic",
+    "chance": 2.5,
+    "price": 75,
+    "image": "/content/blooks/Grandfather Clock.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Telescope": {
+    "rarity": "Epic",
+    "chance": 2.3,
+    "price": 75,
+    "image": "/content/blooks/Telescope.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Light Prism": {
+    "rarity": "Epic",
+    "chance": 2.3,
+    "price": 75,
+    "image": "/content/blooks/Prism.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Toxic Waste": {
+    "rarity": "Epic",
+    "chance": 2.3,
+    "price": 75,
+    "image": "/content/blooks/Toxic Waste.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pizza": {
+    "rarity": "Epic",
+    "chance": 2,
+    "price": 75,
+    "image": "/content/blooks/Pizza.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Bird": {
+    "rarity": "Epic",
+    "chance": 1.3,
+    "price": 75,
+    "image": "/content/blooks/Red Bird.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Companion Cube": {
+    "rarity": "Epic",
+    "chance": 1.3,
+    "price": 75,
+    "image": "/content/blooks/Companion Cube.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "King": {
+    "rarity": "Legendary",
+    "chance": 1,
+    "price": 200,
+    "image": "/content/blooks/King.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Turkey": {
+    "rarity": "Legendary",
+    "chance": 1,
+    "price": 200,
+    "image": "/content/blooks/Turkey.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sandwich": {
+    "rarity": "Legendary",
+    "chance": 1,
+    "price": 200,
+    "image": "/content/blooks/Sandwich.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Santa Claus": {
+    "rarity": "Legendary",
+    "chance": 1,
+    "price": 200,
+    "image": "/content/blooks/Santa Claus.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Melted Blue Peep": {
+    "rarity": "Chroma",
+    "chance": 1,
+    "price": 300,
+    "image": "/content/blooks/Melted Blue Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Melted Pink Peep": {
+    "rarity": "Chroma",
+    "chance": 1,
+    "price": 300,
+    "image": "/content/blooks/Melted Pink Peep.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Valentines Day Present": {
+    "rarity": "Chroma",
+    "chance": 1,
+    "price": 300,
+    "image": "https://i.ibb.co/PvKxy3q7/Valentines-Present.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Box of White Chocolates": {
+    "rarity": "Chroma",
+    "chance": 1,
+    "price": 300,
+    "image": "https://i.ibb.co/CKg0SKrh/Box-of-White-Chocolates.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ghost": {
+    "rarity": "Legendary",
+    "chance": 0.65,
+    "price": 200,
+    "image": "/content/blooks/Ghost.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Skull": {
+    "rarity": "Legendary",
+    "chance": 0.6,
+    "price": 200,
+    "image": "/content/blooks/Skull.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lightbulb": {
+    "rarity": "Legendary",
+    "chance": 0.6,
+    "price": 200,
+    "image": "/content/blooks/Lightbulb.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Brain": {
+    "rarity": "Legendary",
+    "chance": 0.55,
+    "price": 200,
+    "image": "/content/blooks/Brain.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cake": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Cake.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lion": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Lion.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Opal": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Opal.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "root": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/root.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Enderman": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Enderman.webp",
+    "art": "/content/packs/art/Video Game.webp\r\n",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Shamrock": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Shamrock.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Butterfly": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Butterfly.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Baby Shark": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Baby Shark.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "White Blook": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/White Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Ankha": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Golden Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spring Rabbit": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Spring Rabbit.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Magician's Hat": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Magician's Hat.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Football Helmet": {
+    "rarity": "Legendary",
+    "chance": 0.5,
+    "price": 200,
+    "image": "/content/blooks/Football Helmet.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Astronaut": {
+    "rarity": "Legendary",
+    "chance": 0.45,
+    "price": 200,
+    "image": "/content/blooks/Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "M12 Shotgun": {
+    "rarity": "Legendary",
+    "chance": 0.45,
+    "price": 200,
+    "image": "/content/blooks/M12 Shotgun.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "CRT Television": {
+    "rarity": "Legendary",
+    "chance": 0.45,
+    "price": 200,
+    "image": "/content/blooks/CRT Television.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Electric Elemental": {
+    "rarity": "Legendary",
+    "chance": 0.45,
+    "price": 200,
+    "image": "/content/blooks/Electric Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Piano": {
+    "rarity": "Legendary",
+    "chance": 0.4,
+    "price": 200,
+    "image": "/content/blooks/Piano.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Clock Tower": {
+    "rarity": "Legendary",
+    "chance": 0.4,
+    "price": 200,
+    "image": "/content/blooks/Clock Tower.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sand Castle": {
+    "rarity": "Legendary",
+    "chance": 0.4,
+    "price": 200,
+    "image": "/content/blooks/Sand Castle.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sugar Glider": {
+    "rarity": "Legendary",
+    "chance": 0.37,
+    "price": 200,
+    "image": "/content/blooks/Sugar Glider.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Yeti": {
+    "rarity": "Legendary",
+    "chance": 0.35,
+    "price": 200,
+    "image": "/content/blooks/Yeti.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rock Candy": {
+    "rarity": "Legendary",
+    "chance": 0.35,
+    "price": 200,
+    "image": "/content/blooks/Rock Candy.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Master Chief": {
+    "rarity": "Legendary",
+    "chance": 0.35,
+    "price": 200,
+    "image": "/content/blooks/Master Chief.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mega Bot": {
+    "rarity": "Legendary",
+    "chance": 0.3,
+    "price": 200,
+    "image": "/content/blooks/Mega Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Starfruit": {
+    "rarity": "Legendary",
+    "chance": 0.3,
+    "price": 200,
+    "image": "/content/blooks/Starfruit.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "King of Hearts": {
+    "rarity": "Legendary",
+    "chance": 0.3,
+    "price": 200,
+    "image": "/content/blooks/King of Hearts.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tyrannosaurus Rex": {
+    "rarity": "Legendary",
+    "chance": 0.3,
+    "price": 200,
+    "image": "/content/blooks/Tyrannosaurus Rex.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Captain Blackbeard": {
+    "rarity": "Legendary",
+    "chance": 0.3,
+    "price": 200,
+    "image": "/content/blooks/Captain Blackbeard.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Eternal Prism Blade": {
+    "rarity": "Legendary",
+    "chance": 0.3,
+    "price": 200,
+    "image": "/content/blooks/Eternal Prism Blade.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "envi": {
+    "rarity": "Legendary",
+    "chance": 0.25,
+    "price": 200,
+    "image": "/content/blooks/envi2.png",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Megalodon": {
+    "rarity": "Legendary",
+    "chance": 0.2,
+    "price": 250,
+    "image": "/content/blooks/Megalodon.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Moonstone": {
+    "rarity": "Legendary",
+    "chance": 0.2,
+    "price": 250,
+    "image": "/content/blooks/Moonstone.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Black Blook": {
+    "rarity": "Legendary",
+    "chance": 0.2,
+    "price": 250,
+    "image": "/content/blooks/Black Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mama Chick Egg": {
+    "rarity": "Supreme",
+    "chance": 0.2,
+    "price": 300,
+    "image": "https://i.ibb.co/XZDmfd8h/Untitled2772-20250420154205.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chip the Egg": {
+    "rarity": "Supreme",
+    "chance": 0.1,
+    "price": 300,
+    "image": "/content/blooks/Chip the Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dead the Egg": {
+    "rarity": "Supreme",
+    "chance": 0.1,
+    "price": 300,
+    "image": "/content/blooks/Dead the Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pack of Peeps": {
+    "rarity": "Mythical",
+    "chance": 0.1,
+    "price": 1000,
+    "image": "/content/blooks/Pack of Peeps.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Scuba the Egg": {
+    "rarity": "Supreme",
+    "chance": 0.1,
+    "price": 300,
+    "image": "/content/blooks/Scuba the Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Eugene the Egg": {
+    "rarity": "Supreme",
+    "chance": 0.1,
+    "price": 300,
+    "image": "/content/blooks/Eugene the Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tim the Aliegg": {
+    "rarity": "Supreme",
+    "chance": 0.1,
+    "price": 300,
+    "image": "/content/blooks/Tim the Aliegg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Engagement Ring": {
+    "rarity": "Mythical",
+    "chance": 0.1,
+    "price": 1000,
+    "image": "https://i.ibb.co/9mSyJX6V/Untitled2244-20250214075547.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Shannon the Egg": {
+    "rarity": "Supreme",
+    "chance": 0.1,
+    "price": 300,
+    "image": "/content/blooks/Shannon the Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ice Slime": {
+    "rarity": "Chroma",
+    "chance": 0.08,
+    "price": 300,
+    "image": "/content/blooks/Ice Slime.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lovely Frog": {
+    "rarity": "Chroma",
+    "chance": 0.08,
+    "price": 300,
+    "image": "/content/blooks/Lovely Frog.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "White Chocolate": {
+    "rarity": "Chroma",
+    "chance": 0.08,
+    "price": 300,
+    "image": "/content/blooks/White Chocolate.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Flask": {
+    "rarity": "Chroma",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Flask.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lucky Frog": {
+    "rarity": "Chroma",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Lucky Frog.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Petri Dish": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Petri Dish.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Isaac Newton": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Isaac Newton.webp",
+    "art": "/content/packs/art/Scientists.webp",
+    "onlyOnDay": 4,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Nikola Tesla": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Nikola Tesla.webp",
+    "art": "/content/packs/art/Scientists.webp",
+    "onlyOnDay": 6,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gregor Mendel": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Gregor Mendel.webp",
+    "art": "/content/packs/art/Scientists.webp",
+    "onlyOnDay": 3,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Charles Darwin": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Charles Darwin.webp",
+    "art": "/content/packs/art/Scientists.webp",
+    "onlyOnDay": 0,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Albert Einstein": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Albert Einstein.webp",
+    "art": "/content/packs/art/Scientists.webp",
+    "onlyOnDay": 1,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Stephen Hawking": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Stephen Hawking.webp",
+    "art": "/content/packs/art/Hawking.webp",
+    "onlyOnDay": 5,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Neil deGrasse Tyson": {
+    "rarity": "Supreme",
+    "chance": 0.07,
+    "price": 300,
+    "image": "/content/blooks/Neil deGrasse Tyson.webp",
+    "art": "/content/packs/art/Scientists.webp",
+    "onlyOnDay": 2,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spring Frog": {
+    "rarity": "Chroma",
+    "chance": 0.06,
+    "price": 300,
+    "image": "/content/blooks/Spring Frog.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "GAMERYT": {
+    "rarity": "Supreme",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/GAMERYT.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pirahnna": {
+    "rarity": "Supreme",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Pirahnna.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Wise Owl": {
+    "rarity": "Supreme",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Wise Owl.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Agent Owl": {
+    "rarity": "Supreme",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Agent Owl.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lemon Crab": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Lemon Crab.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Master Elf": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Master Elf.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pink Blook": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Pink Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Green Apple": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Green Apple.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "M67 Grenade": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/M67 Grenade.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rose Quartz": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Rose Quartz.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Santa Claws": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Santa Claws.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Amber": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Golden Amber.webp",
+    "art": "/content/packs/art/Dino.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Licorice": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Red Licorice.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Autumn Wreath": {
+    "rarity": "Supreme",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Autumn Wreath.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Frozen Fossil": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Frozen Fossil.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Red Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Blue Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chocolate Milk": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Chocolate Milk.webp",
+    "art": "/content/packs/art/Breakfast.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cyan Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Cyan Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Donut Blobfish": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Donut Blobfish.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lime Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Lime Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pink Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Pink Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Black Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Black Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Brown Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Brown Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Crimson Octopus": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Crimson Octopus.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Among Us": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Golden Among Us.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Green Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Green Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Haunted Pumpkin": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Haunted Pumpkin.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rainbow Narwhal": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Rainbow Narwhal.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Egypt Snow Globe": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Egypt Snow Globe.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Japan Snow Globe": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Japan Snow Globe.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Orange Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Orange Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Paris Snow Globe": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Paris Snow Globe.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Plasma Elemental": {
+    "rarity": "Supreme",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Plasma Elemental1.webp",
+    "art": "/content/packs/art/Elemental2.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Poison Dart Frog": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Poison Dart Frog.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Purple Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Purple Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Yellow Astronaut": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Yellow Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Evil Fred the Egg": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Evil Fred the Egg.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "London Snow Globe": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/London Snow Globe.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rainbow Jellyfish": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Rainbow Jellyfish.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blizzard Clownfish": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/Blizzard Clownfish.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "New York Snow Globe": {
+    "rarity": "Chroma",
+    "chance": 0.05,
+    "price": 300,
+    "image": "/content/blooks/New York Snow Globe.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Cookies Combo": {
+    "rarity": "Chroma",
+    "chance": 0.04,
+    "price": 300,
+    "image": "/content/blooks/Cookies Combo.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dinah": {
+    "rarity": "Supreme",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Dinah.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Catson": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Catson.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Time Stone": {
+    "rarity": "Supreme",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Time Stone.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "White Piano": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/White Piano.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Frost Wreath": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Frost Wreath.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Teal Platypus": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Teal Platypus.webp",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Butterfly": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Blue Butterfly.webp",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pumpkin Cookie": {
+    "rarity": "Supreme",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Pumpkin Cookie.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Lightsaber": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Blue Lightsaber.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chilly Flamingo": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Chilly Flamingo.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "GameBlook Color": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/GameBlook Color.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spooky Skeleton": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Spooky Skeleton.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Coconut Cocktail": {
+    "rarity": "Supreme",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Coconut Cocktail.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pirate Pufferfish": {
+    "rarity": "Chroma",
+    "chance": 0.03,
+    "price": 300,
+    "image": "/content/blooks/Pirate Pufferfish.webp",
+    "art": "/content/packs/art/Pirate.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mummy Cookie": {
+    "rarity": "Supreme",
+    "chance": 0.025,
+    "price": 300,
+    "image": "/content/blooks/Mummy Cookie.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ice Crab": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Ice Crab.webp",
+    "art": "/content/packs/art/Ice Monster.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "March Hare": {
+    "rarity": "Supreme",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/March Hare.webp",
+    "art": "/content/packs/art/Wonderland.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Zone Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Zone Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tiger Zebra": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Tiger Zebra.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ghost Cookie": {
+    "rarity": "Supreme",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Ghost Cookie.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rainbow Panda": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Rainbow Panda.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "White Peacock": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/White Peacock.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "PacMan Machine": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/PacMan Machine.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Gummy Bear": {
+    "rarity": "Supreme",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Red Gummy Bear.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tropical Globe": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Tropical Globe.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Gummy Bear": {
+    "rarity": "Supreme",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Blue Gummy Bear.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Gummy Worm": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Blue Gummy Worm.webp",
+    "art": "/content/packs/art/Candy.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Green Gummy Bear": {
+    "rarity": "Supreme",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Green Gummy Bear.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Bowling Ball": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Red Bowling Ball.webp",
+    "art": "/content/packs/art/Sports.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blueberry Macaroon": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Blueberry Macaroon.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Pumpkin Pie": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Golden Pumpkin Pie.webp",
+    "art": "/content/packs/art/Autumn.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Sentient Spellbook": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Sentient Spellbook.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Snowy Bush Monster": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Snowy Bush Monster.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Red Sweater Snowman": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Red Sweater Snowman.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Sweater Snowman": {
+    "rarity": "Chroma",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Blue Sweater Snowman.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Hijacked Neural Implant": {
+    "rarity": "Supreme",
+    "chance": 0.02,
+    "price": 300,
+    "image": "/content/blooks/Hijacked Neural Implant.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Owl Sheriff": {
+    "rarity": "Supreme",
+    "chance": 0.0175,
+    "price": 300,
+    "image": "/content/blooks/Owl Sheriff.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chick Chicken": {
+    "rarity": "Supreme",
+    "chance": 0.0175,
+    "price": 300,
+    "image": "/content/blooks/Chick Chicken.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Chicken Chick": {
+    "rarity": "Supreme",
+    "chance": 0.0175,
+    "price": 300,
+    "image": "/content/blooks/Chicken Chick.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Haunted Cookie": {
+    "rarity": "Supreme",
+    "chance": 0.0175,
+    "price": 300,
+    "image": "/content/blooks/Haunted Cookie.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Raccoon Bandit": {
+    "rarity": "Supreme",
+    "chance": 0.0175,
+    "price": 300,
+    "image": "/content/blooks/Raccoon Bandit.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Anaconda Wizard": {
+    "rarity": "Supreme",
+    "chance": 0.0175,
+    "price": 300,
+    "image": "/content/blooks/Anaconda Wizard.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pumpkin King": {
+    "rarity": "Supreme",
+    "chance": 0.015,
+    "price": 300,
+    "image": "/content/blooks/Pumpkin King.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Vampire Frog": {
+    "rarity": "Chroma",
+    "chance": 0.015,
+    "price": 300,
+    "image": "/content/blooks/Vampire Frog.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spooky Cookie": {
+    "rarity": "Chroma",
+    "chance": 0.013,
+    "price": 300,
+    "image": "/content/blooks/Spooky Cookie.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spooky Pumpkin": {
+    "rarity": "Chroma",
+    "chance": 0.0125,
+    "price": 300,
+    "image": "/content/blooks/Spooky Pumpkin.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "iPilgrim": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 300,
+    "image": "/content/blooks/iPilgrim.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Puffed Pig": {
+    "rarity": "Supreme",
+    "chance": 0.01,
+    "price": 300,
+    "image": "/content/blooks/Puffed Pig.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Gift": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Golden Gift.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lucky Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Lucky Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lunar Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Lunar Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lovely Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Lovely Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spooky Mummy": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Spooky Mummy.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spring Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Spring Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Turkey Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Turkey Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Birthday Cake": {
+    "rarity": "Supreme",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Birthday Cake.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Festive Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Festive Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lovely zastix": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Lovely zastix.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Naughty Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Naughty Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ukraine Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Ukraine Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ankha Cerulean": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Cerulean Ankha.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blue Raspberry": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Blue Raspberry.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Griffin": {
+    "rarity": "Supreme",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Golden Griffin.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Space Terminal": {
+    "rarity": "Supreme",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Space Terminal.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Patriotic Piotr": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Patriotic Piotr.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Nutcracker Koala": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Nutcracker Koala.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Elf Sweater Snowman": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Elf Sweater Snowman.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Magician's Wand": {
+    "rarity": "Chroma",
+    "chance": 0.01,
+    "price": 350,
+    "image": "/content/blooks/Golden Magician's Wand.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "American Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.0087,
+    "price": 350,
+    "image": "/content/blooks/American Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Vampire Ankha": {
+    "rarity": "Chroma",
+    "chance": 0.0077,
+    "price": 400,
+    "image": "/content/blooks/Vampire Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lucky Pablo": {
+    "rarity": "Chroma",
+    "chance": 0.0075,
+    "price": 350,
+    "image": "/content/blooks/Lucky Pablo.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Space Debugger": {
+    "rarity": "Mythical",
+    "chance": 0.0075,
+    "price": 1000,
+    "image": "/content/blooks/Space Debugger.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "zastix": {
+    "rarity": "Mythical",
+    "chance": 0.005,
+    "price": 1000,
+    "image": "/content/blooks/zastix.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lava Lamp": {
+    "rarity": "Mythical",
+    "chance": 0.005,
+    "price": 1000,
+    "image": "/content/blooks/Lava Lamp.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Diamond Gift": {
+    "rarity": "Mythical",
+    "chance": 0.005,
+    "price": 1000,
+    "image": "/content/blooks/Diamond Gift.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Phantom King": {
+    "rarity": "Mythical",
+    "chance": 0.005,
+    "price": 1000,
+    "image": "/content/blooks/Phantom King.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spooky Ghost": {
+    "rarity": "Mythical",
+    "chance": 0.005,
+    "price": 1000,
+    "image": "/content/blooks/Spooky Ghost.webp",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rainbow Blook": {
+    "rarity": "Mythical",
+    "chance": 0.005,
+    "price": 1000,
+    "image": "/content/blooks/Rainbow Blook.webp",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tim the Alien": {
+    "rarity": "Mythical",
+    "chance": 0.005,
+    "price": 1000,
+    "image": "/content/blooks/Tim the Alien.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Blackintosh": {
+    "rarity": "Mythical",
+    "chance": 0.004,
+    "price": 1000,
+    "image": "/content/blooks/Blackintosh.webp",
+    "art": "/content/packs/art/Retro.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Time Machine": {
+    "rarity": "Mythical",
+    "chance": 0.004,
+    "price": 1000,
+    "image": "/content/blooks/Time Machine.webp",
+    "art": "/content/packs/art/Time.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tropical Pig": {
+    "rarity": "Mythical",
+    "chance": 0.004,
+    "price": 1000,
+    "image": "/content/blooks/Tropical Pig.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Forgotten Bot": {
+    "rarity": "Mythical",
+    "chance": 0.004,
+    "price": 1000,
+    "image": "/content/blooks/Forgotten Bot.webp",
+    "art": "/content/packs/art/Bot.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Black Opal": {
+    "rarity": "Mythical",
+    "chance": 0.0037,
+    "price": 1000,
+    "image": "/content/blooks/Black Opal.webp",
+    "art": "/content/packs/art/Gemstone.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Harp": {
+    "rarity": "Mythical",
+    "chance": 0.0037,
+    "price": 1000,
+    "image": "/content/blooks/Golden Harp.webp",
+    "art": "/content/packs/art/Music.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Celestial Oracle Staff": {
+    "rarity": "Mythical",
+    "chance": 0.0033,
+    "price": 1000,
+    "image": "/content/blooks/Celestial Oracle Staff.webp",
+    "art": "/content/packs/art/Sci-Fi.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Kraken": {
+    "rarity": "Mythical",
+    "chance": 0.003,
+    "price": 1000,
+    "image": "/content/blooks/Kraken.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Dark Dragon": {
+    "rarity": "Mythical",
+    "chance": 0.003,
+    "price": 1000,
+    "image": "/content/blooks/Dark Dragon.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gaming Mouse": {
+    "rarity": "Mythical",
+    "chance": 0.003,
+    "price": 1000,
+    "image": "/content/blooks/Gaming Mouse.webp",
+    "art": "/content/packs/art/Video Game.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rainbow Ankha": {
+    "rarity": "Mythical",
+    "chance": 0.003,
+    "price": 1000,
+    "image": "/content/blooks/Rainbow Ankha.webp",
+    "art": "/content/packs/art/Ankha.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Xotic": {
+    "rarity": "Mythical",
+    "chance": 0.0025,
+    "price": 1000,
+    "image": "/content/blooks/Xotic.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Apple": {
+    "rarity": "Mythical",
+    "chance": 0.0025,
+    "price": 1000,
+    "image": "/content/blooks/Golden Apple.webp",
+    "art": "/content/packs/art/Fruit.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Hamsta Claus": {
+    "rarity": "Mythical",
+    "chance": 0.0025,
+    "price": 1000,
+    "image": "/content/blooks/Hamsta Claus.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Beating Heart": {
+    "rarity": "Mythical",
+    "chance": 0.0025,
+    "price": 1000,
+    "image": "/content/blooks/Beating Heart.webp",
+    "art": "/content/packs/art/Science.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Diamond Sword": {
+    "rarity": "Mythical",
+    "chance": 0.0025,
+    "price": 1000,
+    "image": "/content/blooks/Diamond Sword.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Magic Chocolate": {
+    "rarity": "Mythical",
+    "chance": 0.0025,
+    "price": 1000,
+    "image": "/content/blooks/Magic Chocolate.webp",
+    "art": "/content/packs/art/Dessert.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Rainbow Astronaut": {
+    "rarity": "Mythical",
+    "chance": 0.0025,
+    "price": 1000,
+    "image": "/content/blooks/Rainbow Astronaut.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Unwrapped": {
+    "rarity": "Mythical",
+    "chance": 0.002,
+    "price": 1000,
+    "image": "/content/blooks/SantaUnblooked.webp",
+    "art": "/content/packs/art/Blizzard.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Invisibility Cloak": {
+    "rarity": "Mythical",
+    "chance": 0.002,
+    "price": 1000,
+    "image": "/content/blooks/Invisibility Cloak.webp",
+    "art": "/content/packs/art/Magic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Piotr Riding A Patriotic Turkey": {
+    "rarity": "Supreme",
+    "chance": 0.001875,
+    "price": 1,
+    "image": "/content/blooks/Piotr Riding A Patriotic Turkey.png",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "OneDumbElf": {
+    "rarity": "Chroma",
+    "chance": 0.001,
+    "price": 300,
+    "image": "/content/blooks/OneDumbElf.Webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mug of Beer": {
+    "rarity": "Mythical",
+    "chance": 0.001,
+    "price": 1000,
+    "image": "/content/blooks/Mug of Beer.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Festive Xotic": {
+    "rarity": "Mythical",
+    "chance": 0.001,
+    "price": 1000,
+    "image": "/content/blooks/Festive Xotic.webp",
+    "art": "/content/packs/art/OG.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Shuriken": {
+    "rarity": "Mythical",
+    "chance": 0.001,
+    "price": 2500,
+    "image": "/content/blooks/Golden Shuriken.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "20k": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/20k.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Ditto": {
+    "rarity": "Mythical",
+    "chance": 0,
+    "price": 1000,
+    "image": "/content/blooks/Ditto.gif",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Eevee": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Eevee.png",
+    "art": "/content/packs/art/Elemental.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gengar": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Gengar.png",
+    "art": "/content/packs/art/Spooky.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Mewtwo": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Mewtwo.png",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Eclipse": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Eclipse.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lopunny": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Lopunny.png",
+    "art": "/content/packs/art/Outback.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Pikachu": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Pikachu.png",
+    "art": "/content/packs/art/Elemental.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Snorlax": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Snorlax.png",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gyarados": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Gyarados.png",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Bulbasaur": {
+    "rarity": "Legendary",
+    "chance": 0,
+    "price": 200,
+    "image": "/content/blooks/Bulbasaur.png",
+    "art": "/content/packs/art/Bug.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Charizard": {
+    "rarity": "Iridescent",
+    "chance": 0,
+    "price": 25000,
+    "image": "/content/blooks/Charizard.gif",
+    "art": "/content/packs/art/Elemental.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Party Pig": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 500,
+    "image": "/content/blooks/Party Pig.webp",
+    "art": "/content/packs/art/Medieval.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Jigglypuff": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Jigglypuff.png",
+    "art": "/content/packs/art/Color.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Leprechaun": {
+    "rarity": "Supreme",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Leprechaun.webp",
+    "art": "/content/packs/art/Forest.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Crab": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Golden Crab.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Spring Globe": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 500,
+    "image": "/content/blooks/Spring Globe.webp",
+    "art": "/content/packs/art/Summer.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Gold Doubloon": {
+    "rarity": "Mythical",
+    "chance": 0,
+    "price": 1000,
+    "image": "/content/blooks/Gold Doubloon.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Shovel": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Golden Shovel.webp",
+    "art": "/content/packs/art/Combat.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Fireworks 2025": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Fireworks.webp",
+    "art": "/content/packs/art/Space.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lovely Peacock": {
+    "rarity": "Chroma",
+    "chance": 0,
+    "price": 300,
+    "image": "/content/blooks/Lovely Peacock.webp",
+    "art": "/content/packs/art/Safari.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Treasure Chest": {
+    "rarity": "Mythical",
+    "chance": 0,
+    "price": 1000,
+    "image": "/content/blooks/Treasure Chest.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Golden Seashell": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 1000,
+    "image": "/content/blooks/Golden Seashell.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Graduation Bear": {
+    "rarity": "Iridescent",
+    "chance": 0,
+    "price": 25000,
+    "image": "/content/blooks/Graduation Bear.gif",
+    "art": "https://cdn.discordapp.com/attachments/1015068885453635694/1381055284566298654/Untitled2883_20250607193952.PNG?ex=68461f76&is=6844cdf6&hm=f57936107ed2b46db74c0ad765081cc68ff2cb25686c2e6b902a6e1ac37478db&",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Tropical Island": {
+    "rarity": "Iridescent",
+    "chance": 0,
+    "price": 25000,
+    "image": "/content/blooks/Tropical Island.webp",
+    "art": "/content/packs/art/Aquatic.webp",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Best Blook Trophy": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/Blook_Award.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Best Event Trophy": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/EventAward.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Best Staff Trophy": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/Staff_Award.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Best Artist Trophy": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/Artist_Award.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Best Blacktuber Trophy": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/Blacktuber_Award.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Best Known Player Trophy": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/Known_Award.webp",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Demogorgon":{
+    "rarity": "Mythical",
+    "chance": 0,
+    "price": 1000,
+    "image": "/content/blooks/Demogorgon.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimunListingPrice": null,
+    "bazaarMaximunListingPrice": null
+    },
+    "Chest Mimic": {
+    "rarity": "Mystical",
+    "chance": 0,
+    "price": 1000,
+    "image": "/content/blooks/Chest Mimic 2.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  },
+  "Lucky Zoe": {
+    "rarity": "Unique",
+    "chance": 0,
+    "price": 350,
+    "image": "/content/blooks/Lucky Zoey 2.png",
+    "art": "",
+    "onlyOnDay": null,
+    "bazaarMinimumListingPrice": null,
+    "bazaarMaximumListingPrice": null
+  }
+}
