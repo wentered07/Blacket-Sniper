@@ -382,17 +382,7 @@ def process_listings():
         send_discord(f"Total profit so far: {total_profit} tokens")
         last_report_time = time.time()
 
-print(r""""
- _   _     _        _____           _     
-| | | |   | |_ __  |_   _|__   ___ | |___ 
-| |_| |_  | | '__|   | |/ _ \ / _ \| / __|
-|  _  | |_| | |      | | (_) | (_) | \__ \
-|_| |_|\___/|_|      |_|\___/ \___/|_|___/
-""")
 load_accounts()
-print("")
-print("Discord: get_starred")
-print("Made by HJr")
 print("")
 
 try:
